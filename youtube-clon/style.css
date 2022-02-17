@@ -392,13 +392,22 @@
     .main-side{
         display: grid;
         grid-template-columns: repeat(14, 1fr);
+        margin-top: 8.5rem;
     }
+   
     .side{
         grid-column: 1/2;
+        position: fixed;
+        left: 0;
+        top: 8.5rem;
+        /*background-color: #212121FA;
+        color: whitesmoke;
+        font-size: 3rem;
+        width: 4.3%;*/
     }
 
     .content{
-        margin-top: 8.5rem;
+        
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         background-color: #161616fa;
@@ -619,4 +628,8 @@
     .info p{
         margin-bottom: 0.5rem;
     }
+
+    
+
+
 }

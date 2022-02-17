@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+li{
+    list-style: none;
+    
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+
+.btns button{
+    height: 35px; width: 150px;
+    border: 0;
+}
+footer{
+    background-color: #f2f2f2;
+    color: #70757a;
+}
+
+.info a, .condiciones a{
+    color: #70757a;
+}
+.pais{
+    border-bottom:solid 1px #dadce0;
+}
+
+.leftBtn{
+    margin-left: 20px;
+    border-top-left-radius: 25%;
+    border-bottom-left-radius: 25%;
+}
+.rightBtn{
+    border-top-right-radius: 25%;
+    border-bottom-right-radius: 25%;
+
+}
+nav li{
+    display: flex;
+    color: black;
+    font-weight: 100;
+    background-color: tomato;
+    justify-content: space-around;
+    height: 40px;   width: 100px;
+    align-self: center;
+}
+header nav ul{
+    display: flex;
+    justify-content: flex-end;
+    height: 80px;  
+    background-color: aqua;
+}
+header nav ul li a{
+    display: flex;
+    align-self: center;
+    justify-content: space-around;
+    
+    
+}
+header{
+    
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    height: 300px;
+}
+.buscador{
+    display: flex;
+    justify-content: center;
+}
+.btns{
+    display: flex;
+    justify-content: center;
+    
+
+}
