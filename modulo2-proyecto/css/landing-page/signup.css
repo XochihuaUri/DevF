@@ -1,0 +1,198 @@
+@media screen and (min-width: 1024px){
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .login__btn{
+        color: #ffffff;
+        background-color: #2A7AE4;
+        border: none;
+        margin-bottom: 1rem;
+        height: 5vh;
+        border-radius: 0.8vh;
+        font-size: 1.1rem;
+    }
+    .signup__btn{
+        color: #ffffff;
+        background-color: #009790;
+        border: none;
+        height: 5vh;
+        border-radius: 0.8vh;
+        font-size: 1.1rem;
+    }
+    
+    .login__btn:hover{
+        transition: 0.2s;
+        background-color: #3887f0;
+    }
+    .signup__btn:hover{
+        transition: 0.2s;
+        background-color: #00aca3;
+    }
+    .login__btn:active{
+        background-color: #1c76ec;
+    }
+    .signup__btn:active{
+        background-color: #00756f;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .login__btn{
+        color: #ffffff;
+        background-color: #2A7AE4;
+        border: none;
+        margin-bottom: 1rem;
+        height: 5vh;
+        border-radius: 0.8vh;
+        font-size: 1.1rem;
+    }
+    .signup__btn{
+        color: #ffffff;
+        background-color: #009790;
+        border: none;
+        height: 5vh;
+        border-radius: 0.8vh;
+        font-size: 1.1rem;
+    }
+    
+    .login__btn:hover{
+        transition: 0.2s;
+        background-color: #3887f0;
+    }
+    .signup__btn:hover{
+        transition: 0.2s;
+        background-color: #00aca3;
+    }
+    .login__btn:active{
+        background-color: #1c76ec;
+    }
+    .signup__btn:active{
+        background-color: #00756f;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+    .btns{
+        display: flex;
+        flex-direction: column;
+    }
+    .login__btn{
+        color: #ffffff;
+        background-color: #2A7AE4;
+        border: none;
+        margin-bottom: 1rem;
+        height: 5vh;
+        border-radius: 0.8vh;
+        font-size: 1.1rem;
+    }
+    .signup__btn{
+        color: #ffffff;
+        background-color: #009790;
+        border: none;
+        height: 5vh;
+        border-radius: 0.8vh;
+        font-size: 1.1rem;
+    }
+    
+    .login__btn:hover{
+        transition: 0.2s;
+        background-color: #3887f0;
+    }
+    .signup__btn:hover{
+        transition: 0.2s;
+        background-color: #00aca3;
+    }
+    .login__btn:active{
+        background-color: #1c76ec;
+    }
+    .signup__btn:active{
+        background-color: #00756f;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 479px){
+    .btns{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+    }
+    .login__btn{
+        color: #ffffff;
+        background-color: #2A7AE4;
+        border: none;
+        margin-bottom: 1rem;
+        height: 10vh;
+        border-radius: 0.8vh;
+        font-size: 1.5rem;
+        margin-bottom: 2rem;
+    }
+    .signup__btn{
+        color: #ffffff;
+        background-color: #009790;
+        border: none;
+        height: 10vh;
+        border-radius: 0.8vh;
+        font-size: 1.5rem;
+    }
+    
+    .login__btn:hover{
+        transition: 0.2s;
+        background-color: #3887f0;
+    }
+    .signup__btn:hover{
+        transition: 0.2s;
+        background-color: #00aca3;
+    }
+    .login__btn:active{
+        background-color: #1c76ec;
+    }
+    .signup__btn:active{
+        background-color: #00756f;
+    }
+}
+
+/*
+@media screen and (min-width: 768px){
+    .btns{
+        display: flex;
+        flex-direction: column;
+        margin-top: 2rem;
+    }
+    .login__btn{
+        color: #ffffff;
+        background-color: #2A7AE4;
+        border: none;
+        margin-bottom: 1rem;
+        height: 5vh;
+        border-radius: 0.8vh;
+        font-size: 1.5rem;
+    }
+    .signup__btn{
+        color: #ffffff;
+        background-color: #009790;
+        border: none;
+        height: 5vh;
+        border-radius: 0.8vh;
+        font-size: 1.5rem;
+        margin-top: 1rem;
+    }
+    .login__btn:hover{
+        transition: 0.2s;
+        background-color: #3887f0;
+    }
+    .signup__btn:hover{
+        transition: 0.2s;
+        background-color: #00aca3;
+    }
+    .login__btn:active{
+        background-color: #1c76ec;
+    }
+    .signup__btn:active{
+        background-color: #00756f;
+    }
+}*/
+
+

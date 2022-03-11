@@ -1,0 +1,114 @@
+@media screen and (min-width: 1024px){
+    .login__form{
+        width: 100%;
+    }
+    .login__form-user, .login__form-pass{
+        display: flex;
+        flex-direction: column;
+        padding: 1rem 0;
+    }
+
+    .login__form-pass-label,
+    .login__form-user-label{
+        font-size: 1rem;
+        margin-bottom: 0.2rem;
+    }
+    .login__form-pass-input,
+    .login__form-user-input{
+        height: 5vh;
+        border-radius: 0.6vh;
+        border: solid 0.2px #cccccc;
+    }
+
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    .login__form{
+        width: 100%;
+    }
+    .login__form-user, .login__form-pass{
+        display: flex;
+        flex-direction: column;
+        padding: 1rem 0;
+    }
+
+    .login__form-pass-label,
+    .login__form-user-label{
+        font-size: 1rem;
+        margin-bottom: 0.2rem;
+    }
+    .login__form-pass-input,
+    .login__form-user-input{
+        height: 5vh;
+        border-radius: 0.6vh;
+        border: solid 0.2px #cccccc;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+    .login__form{
+        width: 100%;
+    }
+    .login__form-user, .login__form-pass{
+        display: flex;
+        flex-direction: column;
+        padding: 1rem 0;
+    }
+
+    .login__form-pass-label,
+    .login__form-user-label{
+        font-size: 1rem;
+        margin-bottom: 0.2rem;
+    }
+    .login__form-pass-input,
+    .login__form-user-input{
+        height: 5vh;
+        border-radius: 0.6vh;
+        border: solid 0.2px #cccccc;
+    }
+}
+@media screen and (min-width: 200px) and (max-width: 479px){
+    .login__form{
+        width: 100%;
+    }
+    .login__form-user, .login__form-pass{
+        display: flex;
+        flex-direction: column;
+        padding: 1rem 0;
+    }
+
+    .login__form-pass-label,
+    .login__form-user-label{
+        font-size: 1.4rem;
+        margin-bottom: 0.2rem;
+    }
+    .login__form-pass-input,
+    .login__form-user-input{
+        height: 8vh;
+        border-radius: 0.6vh;
+        border: solid 0.2px #cccccc;
+    }
+}
+/*
+@media screen and (min-width: 768px){
+    .login__form{
+        width: 100%;
+    }
+    .login__form-user, .login__form-pass{
+        display: flex;
+        flex-direction: column;
+        padding: 1rem 0;
+    }
+
+    .login__form-pass-label,
+    .login__form-user-label{
+        font-size: 1.8rem;
+        margin-bottom: 0.2rem;
+    }
+    .login__form-pass-input,
+    .login__form-user-input{
+        height: 5vh;
+        border-radius: 0.6vh;
+        border: solid 0.2px #cccccc;
+        font-size: 1.4rem;
+    }
+}*/
