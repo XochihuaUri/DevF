@@ -1,0 +1,38 @@
+@media screen and (min-width: 1024px){
+    .principal__menu{
+        border: solid 0.8px rgb(209, 209, 209);
+        background-color: rgb(215, 215, 255);
+    }
+    .principal__menu-title{
+        padding: 0.5rem 4% 0.5rem;
+        color: #2A7AE4;
+        border: solid 0.8px rgb(209, 209, 209);
+        font-size: 0.7rem;
+        font-weight: lighter;
+    }
+    .principàl__menu-btns{
+        width: 100%;
+        background-color: white;
+        padding: 0.8rem 4% .8rem;
+        display: flex;
+        justify-content: space-around;
+    }
+    .menu__btn{
+        background-color: #2A7AE4;
+        color: white;
+        border: none;
+        padding: 1.4vh 2.2vh;
+        border-radius: .8vh;
+        font-weight: bold;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+    
+}
+@media screen and (min-width: 200px) and (max-width: 479px){
+    
+}

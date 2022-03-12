@@ -1,0 +1,35 @@
+@media screen and (min-width: 1024px){
+    .img{
+        height: 12rem; 
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .img img{
+        height: 100%;
+        width: 90%;
+    }
+    .user__data__info{
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        padding: 0.5rem 1rem;
+    }
+    .user__data__info-title{
+        
+    }
+    .user__data__info-item{
+        font-size: 1rem;
+        margin-top: 0.5rem;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+    
+}
+@media screen and (min-width: 200px) and (max-width: 479px){
+    
+}

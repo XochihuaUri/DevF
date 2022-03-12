@@ -1,13 +1,17 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    /*font-size: 62.5%;*/
-}
-
-/*
 @media screen and (min-width: 1024px){
-    
+    .user__saldo{
+        display: flex;
+        padding: 0.5rem 0.8rem;
+    }
+    .user__saldo-p{
+        width: 35%;
+        font-size: 1.2rem;
+    }
+    .user__saldo-num{
+        width: 65%;
+        font-size: 1.2rem;
+        
+    }
 }
 @media screen and (min-width: 768px) and (max-width: 1023px){
     
@@ -19,5 +23,3 @@
 @media screen and (min-width: 200px) and (max-width: 479px){
     
 }
-
-*/

@@ -1,0 +1,52 @@
+@media screen and (min-width: 1024px){
+    .principal__table{
+        border: solid 0.8px rgb(209, 209, 209);
+        background-color: rgb(215, 215, 255);
+    }
+    .principal__table-title{
+        padding: 0.5rem 4% 0.5rem;
+        color: #2A7AE4;
+        border: solid 0.8px rgb(209, 209, 209);
+        border-top: none;
+        font-size: 0.7rem;
+        font-weight: lighter;
+    }
+    .principal__table-table{
+        background-color: white;
+        padding: 1rem 2%;
+        width: 100%;
+    }
+    .table{
+        width: 100%;
+    }
+    .table-body{
+        width: 100%;
+    }
+    /*
+    .table__row-head{
+        width: 100%;
+        margin-bottom: 15rem;
+        
+    }*/
+    .table-head{
+        width: 33.333%;
+        padding-bottom: .5rem;
+        border-bottom: solid 1px black;
+    }
+    .table__row-item{
+
+    }
+    .table-item{
+
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1023px){
+    
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px){
+    
+}
+@media screen and (min-width: 200px) and (max-width: 479px){
+    
+}
